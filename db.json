@@ -1,0 +1,60 @@
+{
+  "tarefas": [
+    {
+      "id": 1,
+      "descricao": "Gravar Aulas do curso de Bot.",
+      "dt_cadastro": "2019-03-20",
+      "dt_previsao": "2019-03-26",
+      "dt_conclusao": "2019-03-29",
+      "observacao": "Lembar de olhar as baterias dos equipamentos"
+    },
+    {
+      "id": 2,
+      "descricao": "Editar as Aulas do curso de Bot.",
+      "dt_cadastro": "2019-03-23",
+      "dt_previsao": "2019-03-27",
+      "dt_conclusao": "2019-03-29",
+      "observacao": "Não esquecer de editart as cores."
+    },
+    {
+      "descricao": "Pagamento boleto do APTO.",
+      "dt_cadastro": "2019-03-29",
+      "dt_previsao": "2019-03-30",
+      "dt_conclusao": "2019-03-30",
+      "observacao": "Boleto pago. Graças a Deus!😊",
+      "id": 3
+    },
+    {
+      "descricao": "Pagamento do IPVA do carro",
+      "dt_cadastro": "2019-03-30",
+      "dt_previsao": "2019-03-31",
+      "dt_conclusao": null,
+      "observacao": null,
+      "id": 4
+    },
+    {
+      "id": 8,
+      "descricao": "Sai com a mel para fazer as necessidades.",
+      "dt_cadastro": "2019-03-30",
+      "dt_previsao": null,
+      "dt_conclusao": null,
+      "observacao": null
+    },
+    {
+      "id": 9,
+      "descricao": "Oi",
+      "dt_cadastro": "2019-03-30",
+      "dt_previsao": "2019-03-30",
+      "dt_conclusao": "2019-03-30",
+      "observacao": "Tarefa cadastrada por engano.\n---\nE agora!!! 🙈🙈🙈🙈"
+    },
+    {
+      "id": 10,
+      "descricao": "Tarefa cadastrada por engano.",
+      "dt_cadastro": "2019-03-30",
+      "dt_previsao": null,
+      "dt_conclusao": null,
+      "observacao": null
+    }
+  ]
+}
