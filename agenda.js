@@ -23,7 +23,12 @@ const bot = new Telegraf(env.token)
 
 bot.start(ctx => {
     const from = ctx.update.message.from
-    ctx.reply(`Seja bem vindo, ${from.first_name}`)
+    ctx.reply(`Seja bem vindo, ${from.first_name}!\nEstes são os comandos disponíveis: 
+    /dia : Agenda do dia 
+    /amanha: Agenda de amanhã
+    /semana: Agenda da semana 
+    /concluidas: tarefas concluídas
+    /tarefas: tarefas sem data definida`)
 })
 
 const formataData = data => data ? moment(data).format('DD/MM/YYYY') : ''
