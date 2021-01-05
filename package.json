@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "json-server": "^0.14.2",
-    "axios": "0.17.1",
+    "axios": "0.21.1",
     "moment": "2.20.1",
     "node-schedule": "1.3.0",
     "telegraf": "3.17.3"
